@@ -56,11 +56,6 @@
     "chai": "^3.5.0",
     "gulp": "^3.9.1",
     "laravel-elixir-browserify-official": "^0.1.3",
-    "laravel-elixir-coffeescript": "^1.0.2",
-    "laravel-elixir-rollup-official": "^1.0.4",
-    "laravel-elixir-stylus": "^2.0.2",
-    "laravel-elixir-vue": "^0.1.4",
-    "laravel-elixir-webpack-official": "^1.0.1",
     "mocha": "^2.4.5",
     "rimraf": "^2.5.2"
   }
